@@ -17,6 +17,7 @@ How to use
 3. Put the python script and the retrieved .ics file in the same directory
 4. execute the script and change the name of the summary as you want them to be
 5. The ouptut .ics file is stored in the current directory as output.ics
+6. Import output.ics in Google calendar or Icalendar
 
 How to export the .ics file from ADE
 ---
