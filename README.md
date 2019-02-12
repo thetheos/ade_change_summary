@@ -3,11 +3,13 @@ Real summary for ade ical
 DESCRIPTION
 ---
 Change the summary of all event of an .ics file from ade
+
 eg. LEPL1803 to economie
 
 Required packages
 ---
 the icalendar package is require.
+
 $ pip install icalendar
 
 How to use
