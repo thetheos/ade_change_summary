@@ -18,6 +18,12 @@ How to use
 4. execute the script and change the name of the summary as you want them to be
 5. The ouptut .ics file is stored in the current directory as output.ics
 
+How to export the .ics file from ADE
+---
+1. Go to ade: 
+[linked phrase](http://horaire.uclouvain.be/direct/index.jsp?displayConfName=webEtudiant&showTree=true&showOptions=true&login=etudiant&password=student)
+
+
 Credit
 ---
 Vanden Driessche Théo
