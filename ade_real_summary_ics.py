@@ -27,7 +27,7 @@ def create_dic(cal):
     for elm in new_cal.walk():
         if elm.name == "VEVENT":
             if elm.get("summary") not in convert_dic:
-                name = input("What name for: {} ? \n".format(str(elm.get("summary"))))
+                name = input("What name for: {} ? \n (Press enter to leave as it is)".format(str(elm.get("summary"))))
                 if name == "":
                     convert_dic[str(elm.get("summary"))] = str(elm.get("summary"))
                 else:
