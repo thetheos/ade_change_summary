@@ -8,7 +8,7 @@ eg. LEPL1803 to economie
 
 Required packages
 ---
-the icalendar package is require.
+the icalendar package is required.
 
 $ pip install icalendar
 
