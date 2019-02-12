@@ -21,8 +21,9 @@ How to use
 How to export the .ics file from ADE
 ---
 1. Go to ade: 
-[linked phrase](http://horaire.uclouvain.be/direct/index.jsp?displayConfName=webEtudiant&showTree=true&showOptions=true&login=etudiant&password=student)
-
+[ADE uclouvain](http://horaire.uclouvain.be/direct/index.jsp?displayConfName=webEtudiant&showTree=true&showOptions=true&login=etudiant&password=student)
+2. Select your studies under the "Trainees" section in the ressource list
+3. Export the calendar from the option section (bottom left) with the button "Export Agenda"
 
 Credit
 ---
