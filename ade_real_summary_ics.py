@@ -55,6 +55,7 @@ print(new_cal)
 """
 
 in_cal_file_path = input("Enter the input calendar path (.ics): \n")
+
 try:
     in_cal = open(in_cal_file_path, "r")
 except:
